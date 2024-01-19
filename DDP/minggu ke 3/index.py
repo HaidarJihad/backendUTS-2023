@@ -1,5 +1,0 @@
-print('hello world')
-print('Nama saya   : Muhammad Haidar Jihad Izzuddin')
-print('NIM saya    : 0110222205')
-print('kelas saya  : TI09')
-print('Alamat saya : JL. Ramai 1, RT 01/01 Kec. Setu, Kel. Muncul')
